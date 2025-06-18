@@ -8,7 +8,7 @@ Learn how to access your Acorn login account securely and manage your financial 
 
 .. image:: login.jpg
    :alt: My Project Logo
-   :width: 200px
+   :width: 400px
    :align: center
    :target: https://aclogportal.com/acorn-login
 
