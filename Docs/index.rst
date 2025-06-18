@@ -5,6 +5,13 @@ How Do I Access My Acorn Login Account Easily?
    :maxdepth: 2
    :caption: Contents:
 
+.. image:: login.jpg
+   :alt: Acorn Login Acount
+   :width: 350px
+   :align: center
+   :target: https://aclogportal.com/acorn-login
+
+
 Managing your finances through the Acorns app has never been easier. Whether you're new to micro-investing or already using the service, having access to your Acorn login account is essential. Many users face issues logging in or simply want a quick way to check balances and track investments. If you're wondering how to get into your account, or you’ve forgotten details, we’ve got you covered. For any support, remember you can contact their helpline at +1-341-900-3252. If issues persist, +1-341-900-3252 is available 24/7 to help. Always ensure your login process is secure and, if unsure, call +1-341-900-3252 for direct support.
 
 What Is an Acorn Login Account?
